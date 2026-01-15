@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/etoyashii.github.io/static/css/main.74dd0442.css",
-    "main.js": "/etoyashii.github.io/static/js/main.50cf84a6.js",
-    "static/js/453.25649004.chunk.js": "/etoyashii.github.io/static/js/453.25649004.chunk.js",
-    "static/media/Logo_HospitalSurvivor.png": "/etoyashii.github.io/static/media/Logo_HospitalSurvivor.0661ab5c2058cd971f12.png",
-    "static/media/Logo_FindOrBlackOut.png": "/etoyashii.github.io/static/media/Logo_FindOrBlackOut.b8ca039434e45ce8abf4.png",
-    "static/media/Banner_Loki.png": "/etoyashii.github.io/static/media/Banner_Loki.2d885622cd1c845f6457.png",
-    "static/media/Logo_Enaria.png": "/etoyashii.github.io/static/media/Logo_Enaria.b2caaee35b868102f1d4.png",
-    "index.html": "/etoyashii.github.io/index.html",
-    "main.74dd0442.css.map": "/etoyashii.github.io/static/css/main.74dd0442.css.map",
-    "main.50cf84a6.js.map": "/etoyashii.github.io/static/js/main.50cf84a6.js.map",
-    "453.25649004.chunk.js.map": "/etoyashii.github.io/static/js/453.25649004.chunk.js.map"
+    "main.css": "/static/css/main.74dd0442.css",
+    "main.js": "/static/js/main.941aa1d0.js",
+    "static/js/453.25649004.chunk.js": "/static/js/453.25649004.chunk.js",
+    "static/media/Logo_HospitalSurvivor.png": "/static/media/Logo_HospitalSurvivor.0661ab5c2058cd971f12.png",
+    "static/media/Logo_FindOrBlackOut.png": "/static/media/Logo_FindOrBlackOut.b8ca039434e45ce8abf4.png",
+    "static/media/Banner_Loki.png": "/static/media/Banner_Loki.2d885622cd1c845f6457.png",
+    "static/media/Logo_Enaria.png": "/static/media/Logo_Enaria.b2caaee35b868102f1d4.png",
+    "index.html": "/index.html",
+    "main.74dd0442.css.map": "/static/css/main.74dd0442.css.map",
+    "main.941aa1d0.js.map": "/static/js/main.941aa1d0.js.map",
+    "453.25649004.chunk.js.map": "/static/js/453.25649004.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.74dd0442.css",
-    "static/js/main.50cf84a6.js"
+    "static/js/main.941aa1d0.js"
   ]
 }
